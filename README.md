@@ -21,6 +21,7 @@
 
   ## Deployed
   [Link](https://cryptic-beyond-12644.herokuapp.com)
+  ![Screenshot](https://github.com/kevinphan97/Book-Search-Engine/blob/main/client/public/Book%20Search%20Engine.png)
 
   ## Contribution
   No contribution needed.
